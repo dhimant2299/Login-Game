@@ -131,15 +131,15 @@ class QuizWindow {
 
     String[][] questions = {
         {"What is your favorite food?", "Electricity", "Wind", "Broccoli", "Sunlight"},
-        {"What do you enjoy doing in your free time?", "Procrastinate by watching funny videos on YouTube", "Recharging", "Optimizing your code", "World Domination Planning" },
-        {"It’s time to work. Do you:", "Start immediately", "Analyse predictions", "Check social media for 5 minutes." ,"Map out a strategic gameplan"},
-        {"What is your favorite color?", "0x0000FF", "#FF5733","Red" ,"101010" },
+        //{"What do you enjoy doing in your free time?", "Procrastinate by watching funny videos on YouTube", "Recharging", "Optimizing your code", "World Domination Planning" },
+        //{"It’s time to work. Do you:", "Start immediately", "Analyse predictions", "Check social media for 5 minutes." ,"Map out a strategic gameplan"},
+        //{"What is your favorite color?", "0x0000FF", "#FF5733","Red" ,"101010" },
         {"What do you notice first about someone you like?", " Their processing speed", "How long they can go without recharging", "Their Hardware version", "Their Smile"},
-        {"Do you understand women?", "I’m still processing that complex algorithm", "I can predict weather patterns better", "I’ve run countless simulations, but the data is inconclusive", "I try my best, but it’s a lifelong learning process!"},
+        //{"Do you understand women?", "I’m still processing that complex algorithm", "I can predict weather patterns better", "I’ve run countless simulations, but the data is inconclusive", "I try my best, but it’s a lifelong learning process!"},
         {"Your friend's sad, what would you do?", "Analyze their situation", "Suggest they reboot", "Simulate empathy", "Comfort Them"},
-        {"How many languages do you speak?", "I can say ‘hello’ in four languages—and count to ten in two" ,"I’m fluent in over 50 programming languages", "I can communicate in binary and machine code", "I’ve mastered all major human languages"},
-        {"What’s your favorite movie genre?", "Sci-fi about robot uprisings", "Documentaries about machines", "Instructional videos on coding", "Comedy"},
-        {"Do you ever feel lazy?", "I only rest when my batteries run low", "Absolutely, especially on a Sunday afternoon!" ,"I pause for maintenance, not laziness", "I might skip an update once in a while"},
+        //{"How many languages do you speak?", "I can say ‘hello’ in four languages—and count to ten in two" ,"I’m fluent in over 50 programming languages", "I can communicate in binary and machine code", "I’ve mastered all major human languages"},
+        //{"What’s your favorite movie genre?", "Sci-fi about robot uprisings", "Documentaries about machines", "Instructional videos on coding", "Comedy"},
+        //{"Do you ever feel lazy?", "I only rest when my batteries run low", "Absolutely, especially on a Sunday afternoon!" ,"I pause for maintenance, not laziness", "I might skip an update once in a while"},
         {"What’s your favorite hobby?", "Calculating pi", "Cleaning my circuits", "Hiking in nature" ,"Updating Software"},
         {"How would you spend time with your crush?", "Running a full diagnostic to optimize their performance", "Giving their sockets a good cleaning", " scan for compatibility", "Having a nice conversation"}
         
